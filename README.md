@@ -92,6 +92,18 @@ $$
 
 ### Travelling Salesman
 
-
-
 ## Graph
+
+## Greedy Algorithm
+
+### Minimum Spanning Tree
+
+a spanning tree of G of minimum total weight.
+
+#### Grim
+
+Every times choose the edge with minimum weight from the vertex in the spanning tree to other node.
+
+### Kruskal
+
+Sort all the edges
